@@ -1,4 +1,4 @@
-# smartlike-uxui
+# Issue reporting guidelines
 When you notice an issue or want to suggest an enhancement, please follow the procedure:
 
 1. Search the list of open issues https://github.com/pacio-core/smartlike-uxui/issues for similar ones. Add your comments when needed.
